@@ -1,3 +1,1 @@
-# angular-zv7snb
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-zv7snb)
+Starting project for export to Angular CLI
